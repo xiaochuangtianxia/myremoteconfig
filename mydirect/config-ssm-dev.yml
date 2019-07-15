@@ -7,3 +7,5 @@ spring:
     url: jdbc:mysql://localhost:3306/ttshop?characterEncoding=utf-8&serverTimezone=UTC
     username: root
     password: 666888
+
+myname: fu10002
